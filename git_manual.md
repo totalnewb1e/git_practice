@@ -10,3 +10,8 @@
 
 **step 3.** use CTRL + S anytime u wanna save ur changes.
 
+**step 4.** use **git add (tab to chose file name)** to add changes to the file.
+
+**step 5.** use **git commint -m "message"** to leave a message to ur commit.
+
+_____________________________________
