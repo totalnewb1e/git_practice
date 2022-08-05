@@ -1,5 +1,7 @@
 # *GIT_MANUAL* **after the installation**
 
+## **Call terminal by using CTRL + ` hotkey**
+
 **step 1.** make sure u intredused urself by using :
 
 * **git config --global user.name "name"**
@@ -13,5 +15,19 @@
 **step 4.** use **git add (tab to chose file name)** to add changes to the file.
 
 **step 5.** use **git commint -m "message"** to leave a message to ur commit.
+___________________________________
 
-_____________________________________
+### *USEFULL_COMMANDS*
+
+* **git log** - checking latest commits
+
+* **git status** - current git status (branch, commits etc.)
+
+* **git checkout** - commit hopping from master to others
+
+* **clear** - clearing terminal
+
+* **git --help** - to see all of the helpfull commands
+
+_______________________________
+
