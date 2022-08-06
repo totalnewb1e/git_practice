@@ -38,3 +38,5 @@ _______________________________
 *[YT video for Git beginners](https://www.youtube.com/watch?v=8JJ101D3knE)*.
 
 # *__testing branches__*
+
+![Barbara](IMG_20151212_113525.jpg)
