@@ -41,8 +41,12 @@ _______________________________
 # *__testing branches__*
 
 ![Barbara](IMG_20151212_113525.jpg)
-=======
+
 *[YT video for Git beginners](https://www.youtube.com/watch?v=8JJ101D3knE)*.\
 
 # **new branch**
->>>>>>> new_branch
+
+
+123123
+
+345345
