@@ -48,3 +48,5 @@ _______________________________
 * git branch -d branch_name - deleting branch
 * git checkout -b branch_name - creats new branch and switching to it
 
+**_there's 3 types of conflicts_**
+
