@@ -48,6 +48,8 @@ _______________________________
 * git branch -d branch_name - deleting branch
 * git checkout -b branch_name - creats new branch and switching to it
 
+## gonna work this time
+
 **_there's 3 types of conflicts_**
 
 fast-forward - merging work for branch_name to empty master branch
