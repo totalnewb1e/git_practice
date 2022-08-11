@@ -42,3 +42,9 @@ _______________________________
 
 *[YT video for Git beginners](https://www.youtube.com/watch?v=8JJ101D3knE)*.\
 
+### **commands for branches**
+
+* git branch branch_name - crating new branch
+* git branch -d branch_name - deleting branch
+* git checkout -b branch_name - creats new branch and switching to it
+
