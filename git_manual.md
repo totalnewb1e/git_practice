@@ -57,3 +57,9 @@ _______________________________
 2. 'ort' - auto-merging w/o a conflict
 
 3. conflit - merging with current/incoming or both changes
+
+_____________________
+
+* <<<<<<<<<< HEAD till ======= is current changes 
+* ======== till >>>>>>>>>> branch_name is incoming changes
+compare is comparing changes in a new window ! does not merging them
