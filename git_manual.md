@@ -52,8 +52,8 @@ _______________________________
 
 **_there's 3 types of conflicts_**
 
-fast-forward - merging work for branch_name to empty master branch
+1. fast-forward - merging work for branch_name to empty master branch
 
-'ort' - auto-merging w/o a conflict
+2. 'ort' - auto-merging w/o a conflict
 
-conflit - merging with current/incoming or both changes
+3. conflit - merging with current/incoming or both changes
