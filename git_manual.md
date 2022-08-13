@@ -65,10 +65,42 @@ _____________________
 
 compare is comparing changes in a new window ! does not merging them
 
-_4th branch is just for lulz_
+## working with  **_github_**
 
-this line is from local repository
+To work with github properly u've to create an acc at [Github](github.com)
 
-this line is from remote repository
+create a new repo at [Github](github.com) (choose + >> new repo at right corner of ur screen)
 
-this line from other branch
+then connect ur local repo and remote repo by useing tips at [Github](github.com)
+
+* echo "# 123" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/totalnewb1e/123.git
+git push -u origin main
+
+* git remote add origin https://github.com/totalnewb1e/123.git
+git branch -M main
+git push -u origin main
+
+_________________
+
+To work w repos that u doesnt own u've to fork them by clickin fork button at some1s repo at [Github](github.com) - that makes a clone of a repo on ur acc at [Github](github.com)
+
+then u can pull a cloned repo to ur PC and work w it as a local repo
+
+### **commands**
+
+* git push - pushin changes to remote repo
+
+* pit pull - pullin changes to local repo
+
+**dont forget to commit them**
+
+### comparing and pull requesting
+
+after u did some work at cloned repo u can pull a request to owner of a repo by pushin ur branch **!dont forget to commit changes**
+
+gg. well done. ur beautiful
