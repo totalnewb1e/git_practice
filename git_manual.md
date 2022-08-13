@@ -70,3 +70,5 @@ _4th branch is just for lulz_
 this line is from local repository
 
 this line is from remote repository
+
+this line from other branch
